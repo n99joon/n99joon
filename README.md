@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @n99joon
 - 👀 I’m interested in ...  Algorithm solving, optimization
-- 🌱 I’m currently learning ... C++, Algorithm
+- 🌱 I’m currently learning ... C++, Algorithm, Algorithmic Game theory, Optimization
 - 💞️ I’m looking to collaborate on ... ANYTHING!
 - 📫 How to reach me ... n99joon@hku.hk
 
