@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @n99joon
-- 👀 I’m interested in ...  Algorithm solving, optimization
-- 🌱 I’m currently learning ... C++, Algorithm, Algorithmic Game theory, Optimization, Deep Learning
+- 👀 I’m currently interested in ...  Algorithms, Unsupervised Learning, Manifolds
+- 🌱 I’m currently learning ... Algorithms on Network, Differential Geometry
 -  
 - Email : (my username) at gmail dot com
 
